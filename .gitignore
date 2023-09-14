@@ -1,9 +1,4 @@
-.waf-1*
-.waf3-1*
-.waf-2*
-.waf3-2*
-.DS*
+.DS_Store
 .lock*
-build/
-*.pyc
+build
 .vscode
